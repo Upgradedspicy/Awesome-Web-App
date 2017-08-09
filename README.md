@@ -1,2 +1,1 @@
-# pgFWApp
-Demo Application
+Awesome Web App
